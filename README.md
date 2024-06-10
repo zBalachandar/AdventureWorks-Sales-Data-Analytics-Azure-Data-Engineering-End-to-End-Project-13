@@ -34,8 +34,8 @@ Mr. K Talks Tech video on E2E Azure Data Engineering Project
 4) Set up "AdventureWorksLT2022" Database with credentials 'usr1'. Set up the same credentials as Secrets in Azure Key Vault
 
 The Database used for this project demonstration is:
-AdventureWorks2022LT Sales Database
-[https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms]
+AdventureWorks2017LT Sales Database
+[]
 
 ## Implementation:
 
@@ -43,7 +43,7 @@ AdventureWorks2022LT Sales Database
 
 1. Restore the Adventure Works Database from the .bak file.
    
-   ![image](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/62507b81-59eb-48bb-a2b6-ebbca3314283)
+   ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LT.png)
 
 2. Setup the Microsoft Integration Runtime between Azure and the On-premise SQL Server.
 3. Create a Copy Pipeline which loads the data from local on-premise server into Azure Data Lake Storage Gen2 "bronze" directory.
