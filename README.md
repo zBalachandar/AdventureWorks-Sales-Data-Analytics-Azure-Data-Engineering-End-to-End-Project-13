@@ -34,14 +34,14 @@ Mr. K Talks Tech video on E2E Azure Data Engineering Project
 4) Set up "AdventureWorksLT2017" Database with credentials 'usr1'. Set up the same credentials as Secrets in Azure Key Vault
 
 The Database used for this project demonstration is:
-AdventureWorks2017LT Sales Database
+AdventureWorksLT2017 Sales Database
 []
 
 ## Implementation:
 
 ### Part 1: Data Ingestion
 
-1. Restore the Adventure Works2017LT Database from the .bak file.
+1. Restore the AdventureWorksLT2017 Database from the .bak file.
    
    ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LTv1.png)
 
