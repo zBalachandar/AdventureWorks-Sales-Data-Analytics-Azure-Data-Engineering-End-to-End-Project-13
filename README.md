@@ -31,7 +31,7 @@ Mr. K Talks Tech video on E2E Azure Data Engineering Project
 1) Microsoft SQL Server Managment System (SSMS)
 2) Azure Subscription (Azure Data Lake Storage Gen2, Azure Data Factory, Azure Key Vault, Azure Databricks, Azure Synapse Analytics, Microsoft Entra ID)
 3) Microsoft Power BI
-4) Set up "AdventureWorksLT2022" Database with credentials 'usr1'. Set up the same credentials as Secrets in Azure Key Vault
+4) Set up "AdventureWorksLT2017" Database with credentials 'usr1'. Set up the same credentials as Secrets in Azure Key Vault
 
 The Database used for this project demonstration is:
 AdventureWorks2017LT Sales Database
@@ -127,5 +127,5 @@ Thus, whoever belonging to the Security group can access and contribute to the p
 
 * Another thing to note is that, project couldve been made smaller using only Azure Data factory but I added Databricks and Synapse Analytics to explore what these have to offer.
 
-
+Project done by Balachandar.S
 
