@@ -8,7 +8,7 @@ The goal is to create an Azure solution which can take an On-premise Database su
 
 This solution can be connected to a visualization and reporting dashboard using Microsoft Power BI.
 
-![image](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/22a54fc9-6cb9-4bfa-a3cc-c4cf31019ce3)
+![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/Arc%20img%202.png)
 
 
 Data Migration to the Cloud is one of the most common scenarios the Data Engineers encounter when building solutions for a small-medium organization.
