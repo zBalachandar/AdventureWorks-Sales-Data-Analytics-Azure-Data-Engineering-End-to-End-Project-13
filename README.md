@@ -99,7 +99,7 @@ An Interactive Dashboard is created to showcase the sales data figures.
 ### Part 5: End-to-end Pipeline Testing
 
 Once all the components are ready, we can create a Scheduled Trigger, which will allow the Data Factory Pipeline to be run once every day.
-
+![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/PowerBI%20files/PowerBI%20Reporting%20output.png)
 ![image](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/d28f9c77-0027-4bb5-96f4-104109346f82)
 
 
