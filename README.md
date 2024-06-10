@@ -92,6 +92,7 @@ This pipeline:
 Finally, load the data from the views using Microsoft Power BI. The Data is retrieved using DirectQuery to automatically run and update from the Cloud Pipelines.
 
 An Interactive Dashboard is created to showcase the sales data figures.
+![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/PowerBI%20files/PowerBI%20Reporting%20output.png)
 
 ![image](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/aabd6309-ef85-4ed9-af1a-171dbd7c2505)
 
@@ -99,7 +100,6 @@ An Interactive Dashboard is created to showcase the sales data figures.
 ### Part 5: End-to-end Pipeline Testing
 
 Once all the components are ready, we can create a Scheduled Trigger, which will allow the Data Factory Pipeline to be run once every day.
-![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/PowerBI%20files/PowerBI%20Reporting%20output.png)
 ![image](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/d28f9c77-0027-4bb5-96f4-104109346f82)
 
 
