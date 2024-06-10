@@ -43,7 +43,7 @@ AdventureWorks2017LT Sales Database
 
 1. Restore the Adventure Works Database from the .bak file.
    
-   ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LT.png)
+   ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LTv1.png)
 
 2. Setup the Microsoft Integration Runtime between Azure and the On-premise SQL Server.
 3. Create a Copy Pipeline which loads the data from local on-premise server into Azure Data Lake Storage Gen2 "bronze" directory.
