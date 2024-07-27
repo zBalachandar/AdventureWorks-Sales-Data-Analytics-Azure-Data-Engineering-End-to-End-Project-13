@@ -56,12 +56,13 @@ Note that the Data is stored in "Parquet format" in ADLS Gen2 storage folders.
 
 Data is Loaded into Azure Databricks where can create PySpark Notebooks. Cluster nodes, and compute automatically managed by the Databricks service.
 The Initial Data is cleaned and processed in two steps. Bronze to Silver and Silver to Gold. 
-
+0. Mounting the ADLS
 1. In Bronze to Silver transformation, we apply Attribute Type Changes and move this preprocessed data from Bronze to Silver folders.
 2. In Silver to Gold transformation, we rename the Attributes to follow similar Naming Convention throughout the database. Then we move this into Gold folder.
 
 The Final Gold-level Data is suitable for business reporting and making dashboard visualizations. Gold-level data is in "Delta" format.
-
+![image](https://github.com/zBalachandar/Tokyo-Olympic-Data-Analytics-Azure-End-To-End-Data-Engineering-Project-12/blob/45a3dedcef5ab3a1867dfafb655a827c3052b643/Assets/Storage%20Mount%200.png)
+![image](https://github.com/zBalachandar/Tokyo-Olympic-Data-Analytics-Azure-End-To-End-Data-Engineering-Project-12/blob/45a3dedcef5ab3a1867dfafb655a827c3052b643/Assets/Storage%20Mount%201.png)
 ![image](https://github.com/Shashi42/Azure-End-to-End-Sales-Data-Analytics-Pipeline/assets/26250463/cff35231-e9d0-4a82-b857-dfcc2845c7cb)
 
 
