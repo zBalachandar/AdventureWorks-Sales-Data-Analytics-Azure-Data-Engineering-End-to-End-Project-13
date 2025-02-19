@@ -41,7 +41,7 @@ AdventureWorksLT2017 Sales Database
 
 ### Part 1: Data Ingestion
 
-1. Restore the AdventureWorksLT2017 Database from the .bak file.
+1. Restore the Sales Database from the .bak file.
    
    ![image](https://github.com/zBalachandar/AdventureWorks-Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project/blob/main/pix/SOURCE%202017LTv1.png)
 
